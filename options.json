@@ -1,0 +1,11 @@
+{
+    "prompts": {
+        "statement": "",
+        "comment": "",
+        "reply": ""
+    },
+    "channels": [
+    ],
+    "messageChance": 5,
+    "replyChance": 85
+}
